@@ -27,3 +27,7 @@
 ## Creating Landing page
 
 1. Just copy the dashboard code from git repo. Don't take much time going through css.
+
+## Creating Sidebar
+
+1. Create sidebar in components
