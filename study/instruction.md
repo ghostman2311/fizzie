@@ -31,3 +31,11 @@
 ## Creating Sidebar
 
 1. Create sidebar in components
+
+# 17 May
+
+1. Create infobar component
+2. Import the infobar in layout with sidebar
+3. Copy the .env
+4. Create setting page
+5. Create profile-form in components/form and install shad cn form
