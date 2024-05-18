@@ -39,3 +39,8 @@
 3. Copy the .env
 4. Create setting page
 5. Create profile-form in components/form and install shad cn form
+
+
+# 18 May
+
+1. Completed the profile form
